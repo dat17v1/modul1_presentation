@@ -7,4 +7,4 @@ I dag bruger vi på at i med jeres grupper viser det projekt i har brugt de sids
 
 Hver gruppe får 10 minutter til at præsentere projekterne og i vil efterfølgende få feedback på jeres projekter.    
 
-Deltagelse i præsentationen og en rimelig deltagelse i projektet som helhed medfører at den første obligatoriske opgave er bestået.
+_Deltagelse i præsentationen og en rimelig deltagelse i projektet som helhed medfører at den første obligatoriske opgave er bestået._
